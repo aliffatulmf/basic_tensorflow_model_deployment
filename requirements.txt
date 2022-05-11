@@ -1,5 +1,5 @@
 wheel
-tensorflow
+tensorflow-cpu
 Flask
 python-dotenv
 Pillow
